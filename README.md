@@ -7,23 +7,23 @@
 - [📌 Contenido del Proyecto](#-contenido-del-proyecto)
 - [🚀 Comandos Esenciales](#-comandos-esenciales)
 - [🎯 Objetivo](#-objetivo)
--
+
 Este repositorio contiene una guía introductoria sobre Git, GitHub y el flujo de trabajo con repositorios locales y remotos.
 Incluye mapas mentales que resumen los conceptos fundamentales y comandos principales.
 
 ## 🗂 Mapas Mentales
 
 ### 🧠 1️⃣ Introducción a Git y GitHub
-![Mapa 1](MAPAS MENTALES/IMAGENES/mapamental1.png.png)
+![Mapa 1](MAPAS%20MENTALES/IMAGENES/mapamental1.png)
 
 ### 💻 2️⃣ Comandos básicos en Git
-![Mapa 2](MAPAS MENTALES/IMAGENES/mapamental2.png.png)
+![Mapa 2](MAPAS%20MENTALES/IMAGENES/mapamental2.png)
 
 ### 🔄 3️⃣ Flujo de trabajo básico en Git
-![Mapa 3](MAPAS MENTALES/IMAGENES/mapamental3.png.png)
+![Mapa 3](MAPAS%20MENTALES/IMAGENES/mapamental3.png)
 
 ### 🌐 4️⃣ Trabajo con repositorios remotos en GitHub
-![Mapa 4](MAPAS MENTALES/IMAGENES/mapamental4.png.png)
+![Mapa 4](MAPAS%20MENTALES/IMAGENES/mapamental4.png)
 
 ---
 
